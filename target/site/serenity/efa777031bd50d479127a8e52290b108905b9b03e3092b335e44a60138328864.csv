@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Restful Booker user creation","Check  CURD operations","SUCCESS","2023-01-10T16:40:00.506Z[Europe/London]","0.0","10.31"
+"Endpoints of restfulbooker testing","Checking user can access all booking Id","SUCCESS","2023-01-10T16:40:11.769Z[Europe/London]","0.0","0.9"
+"Endpoints of restfulbooker testing","Checking user can create a new booking","SUCCESS","2023-01-10T16:40:12.818Z[Europe/London]","0.0","1.03"
+"Endpoints of restfulbooker testing","Checking user can update an existing booking","SUCCESS","2023-01-10T16:40:13.899Z[Europe/London]","0.0","0.95"
+"Endpoints of restfulbooker testing","Checking user can delete an existing record","SUCCESS","2023-01-10T16:40:14.926Z[Europe/London]","0.0","0.91"

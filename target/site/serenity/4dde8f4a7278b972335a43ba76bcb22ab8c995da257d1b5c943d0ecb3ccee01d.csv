@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Restful booker with tags","This method will get error code 404 when a method is use ","SUCCESS","2023-01-10T16:40:17.700Z[Europe/London]","0.0","0.5"
+"Restful booker with tags","This test will provide an error code 403 ","SUCCESS","2023-01-10T16:40:18.196Z[Europe/London]","0.0","0.5"
